@@ -1,0 +1,2 @@
+# ReMiX
+Fullscreen Theme
