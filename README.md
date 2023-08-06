@@ -1,5 +1,6 @@
 # ReMiX
-Fullscreen Theme
+Fullscreen Theme - v1.2
 
-![Main](https://github.com/zeroantix/ReMiX/assets/97025763/eac8e37c-30d7-412b-80df-9190f433a98c)
-![Game Details](https://github.com/zeroantix/ReMiX/assets/97025763/e0dc45a6-2d30-4e67-8e41-fc4cc1b245e2)
+![Main](https://github.com/zeroantix/ReMiX/assets/97025763/d8ee1bb4-25bc-4205-a232-f08c893586bd)
+
+![GameDeatils](https://github.com/zeroantix/ReMiX/assets/97025763/6bfb6347-77f9-4fbd-8af3-cf33db30ebf1)
